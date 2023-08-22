@@ -1,0 +1,6 @@
+Crassostrea gigas (cgig) panel version v.1.0
+ Designed as described in associated manuscript. 
+ Files: 
+  WGAG22008_BJS_OYRv01_Region_A.bed
+  WGAG22008_BJS_OYRv01_Hotspot_A.bed
+
