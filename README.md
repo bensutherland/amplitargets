@@ -7,8 +7,12 @@ To obtain files, use the download button.
 The latest hotspot and regions files are available in folder `cgig/current`.      
 Reference genome: [GCA_000297895.1](https://www.ncbi.nlm.nih.gov/assembly/GCF_000297895.1/?shouldredirect=false) by Zhang et al. (2012).      
 
-**Panel citation:** Sutherland et al. *in prep*. An amplicon panel for high-throughput and low-cost genotyping of Pacific oyster *Crassostrea gigas*. bioRxiv.
+**Panel citation:** Sutherland, BJG, Thompson, NF, Surry, LB, Reddy Gujjula, K, Carrasco, CD, Chadaram, S, et al. (2024). An amplicon panel for high-throughput and low-cost genotyping of Pacific oyster. G3: Genes|Genomes|Genetics, 14(9), jkae125. doi:https://doi.org/10.1093/g3journal/jkae125 .    
 
 
+## Yesso scallop (_Mizuhopecten yessoensis_)  ##
+The latest hotspot and regions files are available in folder `myes/current`.      
+Reference genome: [GCF_002113885.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_002113885.1/) by Wang et al. (2017).     
 
+**Panel citation:** Sutherland et al., 2025. An amplicon panel for high-throughput and low-cost genotyping of Yesso scallop _Mizuhopecten yessoensis_. bioRxiv. (link to follow)     
 

@@ -1,0 +1,6 @@
+Mizuhopecten yessoensis (myes) panel version v.1.0
+ Designed as described in associated manuscript. 
+ Files: 
+  WGAG23043_VIU_YSCv01_REGION_A.bed
+  WGAG23043_VIU_YSCv01_HOTSPOT_A.bed
+
