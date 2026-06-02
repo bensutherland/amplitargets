@@ -16,3 +16,13 @@ Reference genome: [GCF_002113885.1](https://www.ncbi.nlm.nih.gov/datasets/genome
 
 **Panel citation:** Sutherland et al., 2025. An amplicon panel for high-throughput and low-cost genotyping of Yesso scallop _Mizuhopecten yessoensis_. bioRxiv. (link to follow)     
 
+
+## Coho salmon (_Oncorhynchus kisutch_)  ##
+The latest hotspot and regions files are available in folder `okis/current`.      
+Reference genome: [Okis_V1_20170530_masked]( https://doi.org/10.6084/m9.figshare.32560566).      
+
+**Panel citation:** #TODO
+
+**Genome citation:** #TODO
+
+

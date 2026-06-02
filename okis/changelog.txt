@@ -1,0 +1,6 @@
+Oncorhynchus kisutch (okis) panel (WG0087.6)
+ Designed as described in associated manuscript.
+ Files:
+  co_WG00087.6.20190917.TR.bed
+  co_WG00087.6.20190917.HS.bed
+
