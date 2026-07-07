@@ -28,6 +28,14 @@ Reference genome: [GCF_002113885.1](https://www.ncbi.nlm.nih.gov/datasets/genome
 **Genome citation:** Wang et al., 2017. Scallop genome provides insights into evolution of bilaterian karyotype and development. _Nature Ecology & Evolution_. 1, 0120. [Journal](https://www.nature.com/articles/s41559-017-0120)     
 
 
+## Chinook salmon (_Oncorhynchus tshawytscha_)  ##
+See subfolder `otsh`.     
+Reference genome: [Okis_V1_20170530_Otsh_V1_20200220_tr-only](https://doi.org/10.6084/m9.figshare.32915663).      
+**Panel citation:** Beacham et al., 2018. Population and individual identification of Chinook salmon in British Columbia through parentage-based tagging and genetic stock identification with single nucleotide polymorphisms. _Canadian Journal of Fisheries and Aquatic Sciences_. 75(7), pp. 1096-1105. [Journal](https://cdnsciencepub.com/doi/full/10.1139/cjfas-2017-0168)     
+
+**Genome citation:** Christensen et al., 2018. Chinook salmon (_Oncorhynchus tshawytscha_) genome and transcriptome. _PLOS ONE_. 13(4):e0195461. [Journal](https://doi.org/10.1371/journal.pone.0195461)        
+
+
 ## Coho salmon (_Oncorhynchus kisutch_)  ##
 See subfolder `okis`.     
 Reference genome: [Okis_V1_20170530_masked]( https://doi.org/10.6084/m9.figshare.32560566).      

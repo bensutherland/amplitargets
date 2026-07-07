@@ -1,0 +1,6 @@
+Oncorhynchus tshawytscha (otsh) panel (WGAG19050)
+ Designed as described in associated manuscript.
+ Files:
+  WGAG19050_DFO_CSLv01.4_Hotspot_A.bed
+  WGAG19050_DFO_CSLv01.4_Region_A.bed
+
