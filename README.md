@@ -29,7 +29,8 @@ Reference genome: [GCF_002113885.1](https://www.ncbi.nlm.nih.gov/datasets/genome
 
 
 ## Chinook salmon (_Oncorhynchus tshawytscha_)  ##
-See subfolder `otsh`.     
+See subfolder `otsh`.    
+ 
 Reference genome: [Okis_V1_20170530_Otsh_V1_20200220_tr-only](https://doi.org/10.6084/m9.figshare.32915663).      
 **Panel citation:** Beacham et al., 2018. Population and individual identification of Chinook salmon in British Columbia through parentage-based tagging and genetic stock identification with single nucleotide polymorphisms. _Canadian Journal of Fisheries and Aquatic Sciences_. 75(7), pp. 1096-1105. [Journal](https://cdnsciencepub.com/doi/full/10.1139/cjfas-2017-0168)     
 
@@ -37,7 +38,8 @@ Reference genome: [Okis_V1_20170530_Otsh_V1_20200220_tr-only](https://doi.org/10
 
 
 ## Coho salmon (_Oncorhynchus kisutch_)  ##
-See subfolder `okis`.     
+See subfolder `okis`.    
+ 
 Reference genome: [Okis_V1_20170530_masked]( https://doi.org/10.6084/m9.figshare.32560566).      
 **Panel citation:** Beacham et al., 2020. Accurate estimation of conservation unit contribution to coho salmon mixed-stock fisheries in British Columbia, Canada, using direct DNA sequencing for single nucleotide polymorphisms. _Canadian Journal of Fisheries and Aquatic Sciences_. 77(8), pp. 1302-1315. [Journal](https://cdnsciencepub.com/doi/10.1139/cjfas-2019-0339)      
 
